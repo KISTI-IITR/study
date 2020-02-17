@@ -5,6 +5,8 @@ The topic of this study are as follows
 
 ## Quantization 
 ### Binarization
++ BinaryNet: Training deep neural networks with weights and activations constrained to +1 or -1, Courbariaux et al., arXive:1602.02830, 2016
+  [https://arxiv.org/abs/1602.02830]
 + Binaryconnect: Training deep neural networks with binary weights during propagations." Courbariaux et al., NIPS'15
   [http://papers.nips.cc/paper/5647-binaryconnect-training-deep-neural-networks-with-b]
 + Binarized Neural Network, Hubara et al., NIPS'16
