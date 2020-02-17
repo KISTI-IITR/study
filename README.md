@@ -6,4 +6,6 @@ The topic of this study are as follows
 
 #Quantization 
 + How to train a compact binary neural network with high accuracy?, Wei Tang et al., AAAI'17
-+ Link: [Quantization Network, Jiwei Yang et al., CVPR'19][http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Quantization_Networks_CVPR_2019_paper.pdf]
+  [https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14619/14454]
++ Quantization Network, Jiwei Yang et al., CVPR'19
+  [http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Quantization_Networks_CVPR_2019_paper.pdf]
