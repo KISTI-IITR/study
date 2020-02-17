@@ -19,6 +19,6 @@ The topic of this study are as follows
   [http://openaccess.thecvf.com/content_cvpr_2017/html/Cai_Deep_Learning_With_CVPR_2017_paper.html]
   
 
-
+***
 # Contributors
 ## Main Contributor: Kyong-Ha Lee(bart7449@gmail.com), Eunhui Kim(kim.eunhui@gmail.com)
