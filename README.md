@@ -12,6 +12,12 @@ The topic of this study are as follows
 + XNOR-NET: Imagenet classification using binary convolutional neural networks." Rastegari et al., ECCV'16
   [https://link.springer.com/chapter/10.1007/978-3-319-46493-0_32]
   
+### k-bits quantization
++ DoReFa-Net: Training low bitwidth convolutional neural networks with low bitwidth gradients.", Zhou et al., " arXiv preprint arXiv:1606.06160 (2016)
+  [https://arxiv.org/abs/1606.06160]
++ LQ-Nets: Learned Quantization for Highly Accurate and Compact Deep Neural Networks, Dongqing Zhang et al., ECCV'18
+  [http://openaccess.thecvf.com/content_ECCV_2018/html/Dongqing_Zhang_Optimized_Quantization_for_ECCV_2018_paper.html]
+
 ### Training
 + How to train a compact binary neural network with high accuracy?, Wei Tang et al., AAAI'17
   [https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14619/14454]
