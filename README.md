@@ -37,4 +37,5 @@ The topic of this study are as follows
   [https://arxiv.org/abs/1907.05686]
 ***
 # Contributors
-## Main Contributor: Kyong-Ha Lee(bart7449@gmail.com), Eunhui Kim(kim.eunhui@gmail.com)
+## Main Contributor
++ Kyong-Ha Lee(bart7449@gmail.com), Eunhui Kim(kim.eunhui@gmail.com)
