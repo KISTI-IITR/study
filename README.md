@@ -1,7 +1,7 @@
 # Neural Network Study
 THis is a repository for the study at IITR, KISTI. 
-The goal of this study is to understand the recent work of Neural Network quantization and so on. 
-The topic of this study are as follows
+The goal of this study is to understand the recent work of Neural Network quantization and other neural network compression techniques. 
+The topics of this study covered here are as follows:
 
 ## Quantization 
 ### Binarization
