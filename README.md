@@ -17,7 +17,9 @@ The topic of this study are as follows
 + Deep Learning with low precision by half-wave Gaussian quantization, Zhaowei Cai et al., CVPR'17
   [http://openaccess.thecvf.com/content_cvpr_2017/html/Cai_Deep_Learning_With_CVPR_2017_paper.html]
   
-
+### Distillation-based approach
++ And the bit goes down: Revisiting the Quantization of Neural Networks, Pierre Stock et al., ICLR'20
+  [https://arxiv.org/abs/1907.05686]
 ***
 # Contributors
 ## Main Contributor: Kyong-Ha Lee(bart7449@gmail.com), Eunhui Kim(kim.eunhui@gmail.com)
