@@ -9,7 +9,7 @@ The topic of this study are as follows
   [http://papers.nips.cc/paper/5647-binaryconnect-training-deep-neural-networks-with-b]
 + Binarized Neural Network, Hubara et al., NIPS'16
   [http://papers.nips.cc/paper/6573-binarized-neural-networks]
-+ Xnor-net: Imagenet classification using binary convolutional neural networks." Rastegari et al., ECCV'16
++ XNOR-NET: Imagenet classification using binary convolutional neural networks." Rastegari et al., ECCV'16
   [https://link.springer.com/chapter/10.1007/978-3-319-46493-0_32]
   
 ### Training
