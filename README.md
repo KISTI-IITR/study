@@ -4,6 +4,15 @@ The goal of this study is to understand the recent work of Neural Network quanti
 The topic of this study are as follows
 
 ## Quantization 
+### Binarization
++ Binaryconnect: Training deep neural networks with binary weights during propagations." Courbariaux et al., NIPS'15
+  [http://papers.nips.cc/paper/5647-binaryconnect-training-deep-neural-networks-with-b]
++ Binarized Neural Network, Hubara et al., NIPS'16
+  [http://papers.nips.cc/paper/6573-binarized-neural-networks]
++ Xnor-net: Imagenet classification using binary convolutional neural networks." Rastegari et al., ECCV'16
+  [https://link.springer.com/chapter/10.1007/978-3-319-46493-0_32]
+  
+### Training
 + How to train a compact binary neural network with high accuracy?, Wei Tang et al., AAAI'17
   [https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14619/14454]
 + Towards Efficient Training for neural network quantization, Qing Jin et al., arXiv:1912.10207
